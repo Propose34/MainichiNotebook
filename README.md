@@ -12,22 +12,6 @@
   <img src="Screenshots/01_Home/home_dashboard.png" width="100%" alt="Mainichi Notebook Home Dashboard" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
 </p>
 
-# 🌸 Mainichi Notebook (毎日ノート)
-### All-in-One Japanese Study Hub & Digital Notebook for iPadOS & iOS
-
-[![Swift](https://img.shields.io/badge/Swift-6.0%20%7C%205.9-orange.svg?style=flat-square&logo=swift)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-iPadOS%2016.0+%20%7C%20iOS%2016.0+-blue.svg?style=flat-square&logo=apple)](https://developer.apple.com)
-[![Frameworks](https://img.shields.io/badge/Frameworks-SwiftUI%20%7C%20PencilKit%20%7C%20PDFKit-purple.svg?style=flat-square)](https://developer.apple.com)
-[![Architecture](https://img.shields.io/badge/Architecture-MVVM%20%7C%20Offline--First-success.svg?style=flat-square)](#-technical-architecture--engineering-highlights)
-[![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Native)-brightgreen.svg?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](LICENSE)
-
-<p align="center">
-  <img src="Screenshots/01_Home/home_dashboard.png" width="100%" alt="Mainichi Notebook Home Dashboard" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
-</p>
-
-
-
 
 <details>
 <summary><b>🌸 The Story Behind Mainichi Notebook (Click to expand)</b></summary>
