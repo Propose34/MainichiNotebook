@@ -1,0 +1,1145 @@
+[
+  {
+    "id": "pattern-a-2e5867",
+    "pattern": "___ があります。",
+    "meaning_th": "มี... (ใช้กับสิ่งไม่มีชีวิต หรือพืช)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "existence",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "机の上に本があります。",
+    "example_th": "มีหนังสืออยู่บนโต๊ะ",
+    "structure": "noun + が + あります",
+    "builder_pattern": "A が あります",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-3d0d90",
+    "pattern": "___ が上手です。",
+    "meaning_th": "เก่ง, ถนัด...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "n5",
+      "skill"
+    ],
+    "example_jp": "彼女は歌が上手です。",
+    "example_th": "เธอร้องเพลงเก่ง",
+    "structure": "noun + が + 上手です",
+    "builder_pattern": "A が 上手です",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-445409",
+    "pattern": "___ はいくらですか。",
+    "meaning_th": "...ราคาเท่าไหร่",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "shopping-money",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "question",
+      "shopping"
+    ],
+    "example_jp": "この時計はいくらですか。",
+    "example_th": "นาฬิกาเรือนนี้ราคาเท่าไหร่",
+    "structure": "thing + は + いくらですか",
+    "builder_pattern": "A は いくらですか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-59608b",
+    "pattern": "___ がいます。",
+    "meaning_th": "มี..., อยู่... (ใช้กับสิ่งมีชีวิต คน หรือสัตว์)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "existence",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "部屋に猫がいます。",
+    "example_th": "มีแมวอยู่ในห้อง",
+    "structure": "noun + が + います",
+    "builder_pattern": "A が います",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-73ddbf",
+    "pattern": "___ はどうですか。",
+    "meaning_th": "...เป็นอย่างไรบ้าง",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "opinion",
+      "question"
+    ],
+    "example_jp": "日本の生活はどうですか。",
+    "example_th": "ชีวิตในญี่ปุ่นเป็นอย่างไรบ้างคะ/ครับ",
+    "structure": "noun + は + どうですか",
+    "builder_pattern": "A は どうですか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-96423a",
+    "pattern": "___ が嫌いです。",
+    "meaning_th": "ไม่ชอบ, เกลียด...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "feeling",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "私は野菜が嫌いです。",
+    "example_th": "ฉันไม่ชอบผัก",
+    "structure": "noun + が + 嫌いです",
+    "builder_pattern": "A が 嫌いです",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-9c976f",
+    "pattern": "___ が好きです。",
+    "meaning_th": "ชอบ...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "feeling",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "私は猫が好きです。",
+    "example_th": "ฉันชอบแมว",
+    "structure": "noun + が + 好きです",
+    "builder_pattern": "A が 好きです",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-a4528e",
+    "pattern": "___ がわかります。",
+    "meaning_th": "เข้าใจ, รู้เรื่อง...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "ability",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "私は日本語がわかります。",
+    "example_th": "ฉันเข้าใจภาษาญี่ปุ่น",
+    "structure": "noun + が + わかります",
+    "builder_pattern": "A が わかります",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b2476f",
+    "pattern": "___ はいつですか。",
+    "meaning_th": "...เมื่อไหร่",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "time-date",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "question",
+      "time"
+    ],
+    "example_jp": "テストはいつですか。",
+    "example_th": "การสอบมีเมื่อไหร่คะ/ครับ",
+    "structure": "event + は + いつですか",
+    "builder_pattern": "A は いつですか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-4744f3",
+    "pattern": "___ の",
+    "meaning_th": "คำนามขยายคำนาม (แสดงความเป็นเจ้าของ หรือสังกัด)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "n5",
+      "noun",
+      "particle"
+    ],
+    "example_jp": "これは私の本です。",
+    "example_th": "นี่คือหนังสือของฉัน",
+    "structure": "noun + の + noun",
+    "builder_pattern": "A の B",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-75bf21",
+    "pattern": "___ は ___ です。",
+    "meaning_th": "ใช้บอกว่า A คือ B หรือ A เป็นอย่างไร",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "n5",
+      "pattern",
+      "sentence"
+    ],
+    "example_jp": "私は学生です。",
+    "example_th": "ฉันเป็นนักเรียน",
+    "structure": "noun + は + noun/adjective + です",
+    "builder_pattern": "A は B です",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-8aad41",
+    "pattern": "___ は ___ でした。",
+    "meaning_th": "บอกว่า A เคยเป็น B (อดีต)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "n5",
+      "past",
+      "pattern"
+    ],
+    "example_jp": "昨日は雨でした。",
+    "example_th": "เมื่อวานฝนตก",
+    "structure": "noun + は + noun + でした",
+    "builder_pattern": "A は B でした",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-95f3e2",
+    "pattern": "___ は ___ じゃありません。",
+    "meaning_th": "ปฏิเสธว่า A ไม่ใช่ B",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "n5",
+      "negative",
+      "pattern"
+    ],
+    "example_jp": "私は先生じゃありません。",
+    "example_th": "ฉันไม่ใช่คุณครู",
+    "structure": "noun + は + noun + じゃありません",
+    "builder_pattern": "A は B じゃありません",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-ad8e96",
+    "pattern": "も ___ です。",
+    "meaning_th": "A ก็เป็น B ด้วยเหมือนกัน",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "n5",
+      "particle"
+    ],
+    "example_jp": "彼も学生です。",
+    "example_th": "เขาก็เป็นนักเรียนเหมือนกัน",
+    "structure": "noun + も + noun + です",
+    "builder_pattern": "A も B です",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-b-d19a50",
+    "pattern": "___ から ___ まで",
+    "meaning_th": "ตั้งแต่... จนถึง... (ระบุเวลาหรือสถานที่)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "time-date",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "location",
+      "n5",
+      "particle",
+      "time"
+    ],
+    "example_jp": "9時から5時まで働きます。",
+    "example_th": "ทำงานตั้งแต่ 9 โมงจนถึง 5 โมง",
+    "structure": "noun + から + noun + まで",
+    "builder_pattern": "A から B まで",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-a-d22201",
+    "pattern": "___ はどこですか。",
+    "meaning_th": "...อยู่ที่ไหน",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "location",
+      "n5",
+      "question"
+    ],
+    "example_jp": "トイレはどこですか。",
+    "example_th": "ห้องน้ำอยู่ที่ไหนคะ/ครับ",
+    "structure": "place/thing + は + どこですか",
+    "builder_pattern": "A は どこですか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-adj-negative",
+    "pattern": "___ くないです / ___ じゃありません",
+    "meaning_th": "รูปปฏิเสธของคำคุณศัพท์ (ไม่...)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "adjectives",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "adjective",
+      "grammar",
+      "n5",
+      "negative"
+    ],
+    "example_jp": "この本は面白くないです。",
+    "example_th": "หนังสือเล่มนี้ไม่น่าสนใจ",
+    "structure": "i-adj(drop i) + くないです",
+    "builder_pattern": "adj + negative",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-nai-form",
+    "pattern": "___ ないでください。",
+    "meaning_th": "กรุณาอย่าทำ...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "n5",
+      "negative",
+      "request"
+    ],
+    "example_jp": "ここで写真を撮らないでください。",
+    "example_th": "กรุณาอย่าถ่ายรูปที่นี่",
+    "structure": "nai-form + でください",
+    "builder_pattern": "nai-form + でください",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-6c771c",
+    "pattern": "どんな ___ ですか。",
+    "meaning_th": "...แบบไหน, ประเภทไหน",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "n5",
+      "question"
+    ],
+    "example_jp": "どんな音楽が好きですか。",
+    "example_th": "ชอบดนตรีประเภทไหน",
+    "structure": "どんな + noun + ですか",
+    "builder_pattern": "どんな + noun",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-74e168",
+    "pattern": "___ に乗ります。",
+    "meaning_th": "ขึ้น (ยานพาหนะ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "movement",
+      "n5",
+      "vehicle"
+    ],
+    "example_jp": "電車に乗ります。",
+    "example_th": "ขึ้นรถไฟ",
+    "structure": "vehicle + に + 乗ります",
+    "builder_pattern": "noun + に + 乗る",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-9240f2",
+    "pattern": "だけ",
+    "meaning_th": "เพียงแค่, เท่านั้น",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "limitation",
+      "n5",
+      "particle"
+    ],
+    "example_jp": "りんごを一つだけ買いました。",
+    "example_th": "ซื้อแอปเปิ้ลมาแค่ผลเดียวเท่านั้น",
+    "structure": "noun/number + だけ",
+    "builder_pattern": "noun + だけ",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-cb291c",
+    "pattern": "___ を降ります。",
+    "meaning_th": "ลงจาก (ยานพาหนะ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "movement",
+      "n5",
+      "vehicle"
+    ],
+    "example_jp": "バスを降ります。",
+    "example_th": "ลงรถบัส",
+    "structure": "vehicle + を + 降ります",
+    "builder_pattern": "noun + を + 降りる",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-d46452",
+    "pattern": "をください。",
+    "meaning_th": "ขอ...หน่อย (ตอนสั่งอาหาร หรือซื้อของ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "shopping-money",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "request",
+      "shopping"
+    ],
+    "example_jp": "水をください。",
+    "example_th": "ขอน้ำหน่อยครับ/ค่ะ",
+    "structure": "noun + を + ください",
+    "builder_pattern": "noun + をください",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-e66445",
+    "pattern": "___ お願いします。",
+    "meaning_th": "รบกวนขอ...หน่อย (สุภาพ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "request"
+    ],
+    "example_jp": "コーヒーをお願いします。",
+    "example_th": "รบกวนขอเป็นกาแฟครับ/ค่ะ",
+    "structure": "noun + を + お願いします",
+    "builder_pattern": "noun + お願いします",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-place",
+    "pattern": "___ は ___ にあります。",
+    "meaning_th": "(สิ่งของ) อยู่ที่ (สถานที่)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "existence",
+      "grammar",
+      "location",
+      "n5"
+    ],
+    "example_jp": "郵便局は駅の前にあります。",
+    "example_th": "ไปรษณีย์อยู่หน้าสถานีรถไฟ",
+    "structure": "noun + は + place + にあります",
+    "builder_pattern": "noun + は + place + にあります",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-verb-1a0aa1",
+    "pattern": "___ を見ます。",
+    "meaning_th": "ดู, มอง...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "verbs-actions",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "action",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "テレビを見ます。",
+    "example_th": "ดูทีวี",
+    "structure": "noun + を + 見ます",
+    "builder_pattern": "noun + を + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-verb-5a357b",
+    "pattern": "___ を食べます。",
+    "meaning_th": "กิน...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "food-drink",
+      "verbs-actions",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "action",
+      "food",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "朝ご飯を食べます。",
+    "example_th": "กินอาหารเช้า",
+    "structure": "noun + を + 食べます",
+    "builder_pattern": "noun + を + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-verb-6f409a",
+    "pattern": "___ を買います。",
+    "meaning_th": "ซื้อ...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "shopping-money",
+      "verbs-actions",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "action",
+      "grammar",
+      "n5",
+      "shopping"
+    ],
+    "example_jp": "新しい靴を買います。",
+    "example_th": "ซื้อรองเท้าคู่ใหม่",
+    "structure": "noun + を + 買います",
+    "builder_pattern": "noun + を + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-noun-verb-aefed8",
+    "pattern": "___ を飲みます。",
+    "meaning_th": "ดื่ม...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "food-drink",
+      "verbs-actions",
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "action",
+      "drink",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "水を飲みます。",
+    "example_th": "ดื่มน้ำ",
+    "structure": "noun + を + 飲みます",
+    "builder_pattern": "noun + を + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-person-verb",
+    "pattern": "___ と ___ をします。",
+    "meaning_th": "ทำ (กริยา) กับ (ใครบางคน)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "n5",
+      "particle"
+    ],
+    "example_jp": "友達と話します。",
+    "example_th": "คุยกับเพื่อน",
+    "structure": "person + と + action_verb",
+    "builder_pattern": "person + と + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-noun",
+    "pattern": "___ に ___ があります。",
+    "meaning_th": "ที่ (สถานที่) มี (สิ่งของ) อยู่",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "travel-places",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "existence",
+      "grammar",
+      "location",
+      "n5"
+    ],
+    "example_jp": "公園に木があります。",
+    "example_th": "มีต้นไม้อยู่ในสวนสาธารณะ",
+    "structure": "place + に + noun + があります",
+    "builder_pattern": "place + に + noun + があります",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-532bb0",
+    "pattern": "___ から来ました。",
+    "meaning_th": "มาจาก... (บอกสถานที่เกิดหรือต้นทาง)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "conversation",
+      "grammar",
+      "n5",
+      "origin"
+    ],
+    "example_jp": "タイから来ました。",
+    "example_th": "มาจากประเทศไทย",
+    "structure": "place + から + 来ました",
+    "builder_pattern": "place + から + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-656e7c",
+    "pattern": "___ へ行きます。",
+    "meaning_th": "ไปที่... (ชี้ทิศทางด้วย へ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "movement",
+      "n5"
+    ],
+    "example_jp": "学校へ行きます。",
+    "example_th": "ไปโรงเรียน",
+    "structure": "place + へ + 行きます",
+    "builder_pattern": "place + へ + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-70ec5a",
+    "pattern": "___ で ___ をします。",
+    "meaning_th": "ทำ (กริยา) ที่ (สถานที่)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "verbs-actions",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "action",
+      "grammar",
+      "n5",
+      "particle"
+    ],
+    "example_jp": "図書館で勉強します。",
+    "example_th": "เรียนหนังสือที่ห้องสมุด",
+    "structure": "place + で + action_verb",
+    "builder_pattern": "place + で + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-a8cd01",
+    "pattern": "___ に住んでいます。",
+    "meaning_th": "อาศัยอยู่ที่...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "state"
+    ],
+    "example_jp": "東京に住んでいます。",
+    "example_th": "อาศัยอยู่ที่โตเกียว",
+    "structure": "place + に + 住んでいます",
+    "builder_pattern": "place + に + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-dd322c",
+    "pattern": "___ に帰ります。",
+    "meaning_th": "กลับไปที่...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "movement",
+      "n5"
+    ],
+    "example_jp": "家に帰ります。",
+    "example_th": "กลับบ้าน",
+    "structure": "place + に + 帰ります",
+    "builder_pattern": "place + に + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-place-verb-f664f2",
+    "pattern": "___ に来ます。",
+    "meaning_th": "มาที่... (ชี้จุดหมายด้วย に หรือ へ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "Sentence Patterns",
+    "tags": [
+      "grammar",
+      "movement",
+      "n5"
+    ],
+    "example_jp": "日本に来ました。",
+    "example_th": "มาที่ญี่ปุ่นแล้ว",
+    "structure": "place + に + 来ます",
+    "builder_pattern": "place + に + verb",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-te-form-0c0ea7",
+    "pattern": "___ てもいいですか。",
+    "meaning_th": "ขออนุญาตทำ...ได้ไหม",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "school-classroom",
+      "grammar-helpers"
+    ],
+    "deck": "Classroom Japanese",
+    "tags": [
+      "classroom",
+      "grammar",
+      "n5",
+      "permission"
+    ],
+    "example_jp": "トイレに行ってもいいですか。",
+    "example_th": "ขออนุญาตไปห้องน้ำได้ไหมคะ/ครับ",
+    "structure": "te-form + もいいですか",
+    "builder_pattern": "te-form + もいいですか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-te-form-37e25f",
+    "pattern": "___ ています。",
+    "meaning_th": "กำลังทำ... อยู่ หรือ สภาพกำลังเป็นอยู่",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "verbs-actions",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "action",
+      "grammar",
+      "n5",
+      "state"
+    ],
+    "example_jp": "今、日本語を勉強しています。",
+    "example_th": "ตอนนี้กำลังเรียนภาษาญี่ปุ่นอยู่",
+    "structure": "te-form + います",
+    "builder_pattern": "te-form + います",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-te-form-d394a3",
+    "pattern": "___ てください。",
+    "meaning_th": "กรุณาทำ... (ขอร้อง/ออกคำสั่งอย่างสุภาพ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "grammar",
+      "n5",
+      "request"
+    ],
+    "example_jp": "ここに名前を書いてください。",
+    "example_th": "กรุณาเขียนชื่อลงตรงนี้ค่ะ/ครับ",
+    "structure": "te-form + ください",
+    "builder_pattern": "te-form + ください",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-te-form-f77c62",
+    "pattern": "___ てから、",
+    "meaning_th": "หลังจากทำ... ก็ทำ...",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "verbs-actions",
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "action",
+      "grammar",
+      "n5",
+      "sequence"
+    ],
+    "example_jp": "宿題をしてから、寝ます。",
+    "example_th": "หลังจากทำการบ้านเสร็จ จะเข้านอน",
+    "structure": "te-form + から + action",
+    "builder_pattern": "te-form + から",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-verb-negative",
+    "pattern": "___ ませんか。",
+    "meaning_th": "ทำ...ด้วยกันไหม (ประโยคชักชวน)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "invitation",
+      "n5"
+    ],
+    "example_jp": "一緒に映画を見ませんか。",
+    "example_th": "ไปดูหนังด้วยกันไหมคะ/ครับ",
+    "structure": "verb_masu_negative + か",
+    "builder_pattern": "verb_negative + か",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-verb-stem-33266b",
+    "pattern": "___ たいです。",
+    "meaning_th": "อยากทำ... (บอกความต้องการของตัวเอง)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "grammar-helpers"
+    ],
+    "deck": "N5 Grammar",
+    "tags": [
+      "desire",
+      "grammar",
+      "n5"
+    ],
+    "example_jp": "日本へ行きたいです。",
+    "example_th": "อยากไปประเทศญี่ปุ่น",
+    "structure": "verb_stem + たいです",
+    "builder_pattern": "verb_stem + たい",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-verb-stem-4be3db",
+    "pattern": "___ ましょう。",
+    "meaning_th": "มาทำ...กันเถอะ",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "invitation",
+      "n5"
+    ],
+    "example_jp": "授業を始めましょう。",
+    "example_th": "มาเริ่มคาบเรียนกันเถอะ",
+    "structure": "verb_stem + ましょう",
+    "builder_pattern": "verb_stem + ましょう",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "pattern-verb-stem-d8c541",
+    "pattern": "___ ましょうか。",
+    "meaning_th": "ให้ฉันทำ...ให้ไหม (เสนอตัวช่วยเหลือ)",
+    "level": "N5",
+    "primary_category": "grammar-helpers",
+    "categories": [
+      "conversations",
+      "grammar-helpers"
+    ],
+    "deck": "Conversation Practice",
+    "tags": [
+      "grammar",
+      "n5",
+      "offer"
+    ],
+    "example_jp": "窓を開けましょうか。",
+    "example_th": "ให้ฉันเปิดหน้าต่างให้ไหมคะ/ครับ",
+    "structure": "verb_stem + ましょうか",
+    "builder_pattern": "verb_stem + ましょうか",
+    "source_files": [
+      "chunk-06-sentence-patterns.json"
+    ],
+    "status": "clean"
+  }
+]

@@ -1,0 +1,29 @@
+# Xcode / Swift Build artifacts
+build/
+Build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# User-specific Xcode settings
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xsyncdestination
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.swp
+*~
+
+# Swift Package Manager files
+.build/
+.swiftpm/

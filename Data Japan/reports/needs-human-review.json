@@ -1,0 +1,96 @@
+[
+  {
+    "source_file": "chunk-07-word-builder-candidates.json",
+    "source_index": 20,
+    "target_id": "undou-suru",
+    "target_type": "vocabulary",
+    "issue_type": "level-conflict",
+    "original_entry": {
+      "japanese": "運動する",
+      "reading": "うんどうする",
+      "romaji": "undou suru",
+      "meaning_th": "ออกกำลังกาย",
+      "part_of_speech": "verb",
+      "level": "N5",
+      "deck": "Word Builder",
+      "tags": "word-builder;n5;verb;health",
+      "example_jp": "朝、公園で運動します。",
+      "example_th": "ตอนเช้าออกกำลังกายที่สวนสาธารณะ",
+      "word_parts": "運動 + する",
+      "builder_pattern": "noun + する",
+      "conversation_prompt": "健康のために、毎日___。",
+      "quiz_choices": "運動します;勉強します;心配します;料理します",
+      "correct_answer": "運動します",
+      "explanation_th": "運動 แปลว่า การออกกำลังกาย และ する แปลว่า ทำ รวมกันเป็น 運動する แปลว่า ออกกำลังกาย"
+    },
+    "related_entries": [
+      {
+        "japanese": "運動する",
+        "reading": "うんどうする",
+        "romaji": "undou suru",
+        "meaning_th": "ออกกำลังกาย",
+        "part_of_speech": "verb",
+        "level": "N4",
+        "deck": "Essential Verbs",
+        "tags": "verb;action",
+        "example_jp": "公園で運動する。",
+        "example_th": "ออกกำลังกายที่สวนสาธารณะ",
+        "word_parts": "運動 + する",
+        "builder_pattern": "noun + する",
+        "conversation_prompt": "ジムで___。",
+        "quiz_choices": "運動します;旅行します;練習します;勉強します",
+        "correct_answer": "運動します",
+        "explanation_th": "กริยาใช้เมื่อเล่นกีฬาหรือออกกำลังกาย"
+      }
+    ],
+    "reason": "Duplicate sources disagree on JLPT level: N4 and N5",
+    "suggested_fix": "Confirm the intended JLPT level. Keep the current clean item only after choosing a stable level."
+  },
+  {
+    "source_file": "chunk-07-word-builder-candidates.json",
+    "source_index": 22,
+    "target_id": "shinpai-suru",
+    "target_type": "vocabulary",
+    "issue_type": "level-conflict",
+    "original_entry": {
+      "japanese": "心配する",
+      "reading": "しんぱいする",
+      "romaji": "shinpai suru",
+      "meaning_th": "เป็นห่วง, กังวล",
+      "part_of_speech": "verb",
+      "level": "N5",
+      "deck": "Word Builder",
+      "tags": "word-builder;n5;verb;feeling",
+      "example_jp": "母が心配します。",
+      "example_th": "คุณแม่เป็นห่วง",
+      "word_parts": "心配 + する",
+      "builder_pattern": "noun + する",
+      "conversation_prompt": "テストの前はいつも___。",
+      "quiz_choices": "心配します;食事します;掃除します;運動します",
+      "correct_answer": "心配します",
+      "explanation_th": "心配 แปลว่า ความกังวล และ する แปลว่า ทำ รวมกันเป็น 心配する แปลว่า เป็นห่วงหรือกังวล"
+    },
+    "related_entries": [
+      {
+        "japanese": "心配する",
+        "reading": "しんぱいする",
+        "romaji": "shinpai suru",
+        "meaning_th": "เป็นห่วง, กังวล",
+        "part_of_speech": "verb",
+        "level": "N4",
+        "deck": "Essential Verbs",
+        "tags": "verb;emotion",
+        "example_jp": "家族を心配する。",
+        "example_th": "เป็นห่วงครอบครัว",
+        "word_parts": "心配 + する",
+        "builder_pattern": "noun + する",
+        "conversation_prompt": "母が私のことを___。",
+        "quiz_choices": "心配します;勉強します;料理します;掃除します",
+        "correct_answer": "心配します",
+        "explanation_th": "ใช้แสดงความวิตกกังวล"
+      }
+    ],
+    "reason": "Duplicate sources disagree on JLPT level: N4 and N5",
+    "suggested_fix": "Confirm the intended JLPT level. Keep the current clean item only after choosing a stable level."
+  }
+]

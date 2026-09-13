@@ -1,0 +1,1761 @@
+[
+  {
+    "id": "kanji-ashi",
+    "kanji": "足",
+    "reading": "あし",
+    "romaji": "ashi",
+    "meaning_th": "ขา, เท้า",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "body",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "足",
+    "example_th": "ขา, เท้า",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-chii",
+    "kanji": "小",
+    "reading": "ちい",
+    "romaji": "chii",
+    "meaning_th": "เล็ก",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "adjectives",
+      "basic-kanji"
+    ],
+    "tags": [
+      "adjective",
+      "basic",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "小さい",
+    "example_th": "เล็ก",
+    "word_parts": [
+      "小",
+      "さい",
+      "小さい"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-da",
+    "kanji": "田",
+    "reading": "だ",
+    "romaji": "da",
+    "meaning_th": "นาข้าว",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "山田",
+    "example_th": "ยามาดะ (ชื่อคน)",
+    "word_parts": [
+      "山",
+      "田",
+      "山田"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-den",
+    "kanji": "電",
+    "reading": "でん",
+    "romaji": "den",
+    "meaning_th": "ไฟฟ้า",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "electricity",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "電車",
+    "example_th": "รถไฟ",
+    "word_parts": [
+      "電",
+      "車",
+      "電車"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-do",
+    "kanji": "土",
+    "reading": "ど",
+    "romaji": "do",
+    "meaning_th": "ดิน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "土曜日",
+    "example_th": "วันเสาร์",
+    "word_parts": [
+      "土",
+      "曜日",
+      "土曜日"
+    ],
+    "builder_pattern": "kanji + 曜日",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-en",
+    "kanji": "円",
+    "reading": "えん",
+    "romaji": "en",
+    "meaning_th": "วงกลม, เยน (สกุลเงิน)",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "shopping-money",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "money",
+      "n5"
+    ],
+    "example_jp": "百円",
+    "example_th": "หนึ่งร้อยเยน",
+    "word_parts": [
+      "百",
+      "円",
+      "百円"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-fun",
+    "kanji": "分",
+    "reading": "ふん",
+    "romaji": "fun",
+    "meaning_th": "นาที, แบ่ง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "time-date",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "time"
+    ],
+    "example_jp": "五分",
+    "example_th": "ห้านาที",
+    "word_parts": [
+      "五",
+      "分",
+      "五分"
+    ],
+    "builder_pattern": "number + counter",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-gaku",
+    "kanji": "学",
+    "reading": "がく",
+    "romaji": "gaku",
+    "meaning_th": "เรียน, ศึกษา",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "school"
+    ],
+    "example_jp": "学生",
+    "example_th": "นักเรียน, นักศึกษา",
+    "word_parts": [
+      "学",
+      "生",
+      "学生"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-getsu",
+    "kanji": "月",
+    "reading": "げつ",
+    "romaji": "getsu",
+    "meaning_th": "เดือน, พระจันทร์",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "time-date",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "time"
+    ],
+    "example_jp": "月曜日",
+    "example_th": "วันจันทร์",
+    "word_parts": [
+      "月",
+      "曜日",
+      "月曜日"
+    ],
+    "builder_pattern": "kanji + 曜日",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-go-199d61",
+    "kanji": "語",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning_th": "ภาษา, คำพูด",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "language",
+      "n5"
+    ],
+    "example_jp": "日本語",
+    "example_th": "ภาษาญี่ปุ่น",
+    "word_parts": [
+      "日本",
+      "語",
+      "日本語"
+    ],
+    "builder_pattern": "country + 語",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-go-461e46",
+    "kanji": "五",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning_th": "ห้า",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "五月",
+    "example_th": "เดือนพฤษภาคม",
+    "word_parts": [
+      "五",
+      "月",
+      "五月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-guchi",
+    "kanji": "口",
+    "reading": "ぐち",
+    "romaji": "guchi",
+    "meaning_th": "ปาก",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "body",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "出口",
+    "example_th": "ทางออก",
+    "word_parts": [
+      "出",
+      "口",
+      "出口"
+    ],
+    "builder_pattern": "verb_stem + 口",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-hachi",
+    "kanji": "八",
+    "reading": "はち",
+    "romaji": "hachi",
+    "meaning_th": "แปด",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "八月",
+    "example_th": "เดือนสิงหาคม",
+    "word_parts": [
+      "八",
+      "月",
+      "八月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-hidari",
+    "kanji": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "meaning_th": "ซ้าย",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "position"
+    ],
+    "example_jp": "左側",
+    "example_th": "ด้านซ้าย",
+    "word_parts": [
+      "左",
+      "側",
+      "左側"
+    ],
+    "builder_pattern": "direction + 側",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-hon",
+    "kanji": "本",
+    "reading": "ほん",
+    "romaji": "hon",
+    "meaning_th": "หนังสือ, ต้นกำเนิด",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "school"
+    ],
+    "example_jp": "本屋",
+    "example_th": "ร้านหนังสือ",
+    "word_parts": [
+      "本",
+      "屋",
+      "本屋"
+    ],
+    "builder_pattern": "noun + 屋",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-hyaku",
+    "kanji": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku",
+    "meaning_th": "ร้อย",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "百円",
+    "example_th": "หนึ่งร้อยเยน",
+    "word_parts": [
+      "百",
+      "円",
+      "百円"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-i",
+    "kanji": "行",
+    "reading": "い",
+    "romaji": "i",
+    "meaning_th": "ไป",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "verbs-actions",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "verb"
+    ],
+    "example_jp": "行く",
+    "example_th": "ไป",
+    "word_parts": [
+      "行",
+      "く",
+      "行く"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ichi",
+    "kanji": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "meaning_th": "หนึ่ง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "一月",
+    "example_th": "เดือนมกราคม",
+    "word_parts": [
+      "一",
+      "月",
+      "一月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ji",
+    "kanji": "時",
+    "reading": "じ",
+    "romaji": "ji",
+    "meaning_th": "เวลา, ชั่วโมง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "time-date",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "time"
+    ],
+    "example_jp": "時間",
+    "example_th": "เวลา, ชั่วโมง",
+    "word_parts": [
+      "時",
+      "間",
+      "時間"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-jin",
+    "kanji": "人",
+    "reading": "じん",
+    "romaji": "jin",
+    "meaning_th": "คน, ผู้คน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "family-people",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "people"
+    ],
+    "example_jp": "タイ人",
+    "example_th": "คนไทย",
+    "word_parts": [
+      "タイ",
+      "人",
+      "タイ人"
+    ],
+    "builder_pattern": "country + 人",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-juu",
+    "kanji": "十",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "meaning_th": "สิบ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "十月",
+    "example_th": "เดือนตุลาคม",
+    "word_parts": [
+      "十",
+      "月",
+      "十月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ka",
+    "kanji": "火",
+    "reading": "か",
+    "romaji": "ka",
+    "meaning_th": "ไฟ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "火曜日",
+    "example_th": "วันอังคาร",
+    "word_parts": [
+      "火",
+      "曜日",
+      "火曜日"
+    ],
+    "builder_pattern": "kanji + 曜日",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-kawa",
+    "kanji": "川",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "meaning_th": "แม่น้ำ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "川",
+    "example_th": "แม่น้ำ",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ki",
+    "kanji": "来",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning_th": "มา",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "verbs-actions",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "verb"
+    ],
+    "example_jp": "来ます",
+    "example_th": "มา",
+    "word_parts": [
+      "来",
+      "ます",
+      "来ます"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-kin",
+    "kanji": "金",
+    "reading": "きん",
+    "romaji": "kin",
+    "meaning_th": "ทอง, เงิน (ทรัพย์สิน)",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "金曜日",
+    "example_th": "วันศุกร์",
+    "word_parts": [
+      "金",
+      "曜日",
+      "金曜日"
+    ],
+    "builder_pattern": "kanji + 曜日",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ko",
+    "kanji": "子",
+    "reading": "こ",
+    "romaji": "ko",
+    "meaning_th": "เด็ก, ลูก",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "family-people",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "people"
+    ],
+    "example_jp": "子供",
+    "example_th": "เด็ก",
+    "word_parts": [
+      "子",
+      "供",
+      "子供"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-koku",
+    "kanji": "国",
+    "reading": "こく",
+    "romaji": "koku",
+    "meaning_th": "ประเทศ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "travel-places",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "place"
+    ],
+    "example_jp": "外国",
+    "example_th": "ต่างประเทศ",
+    "word_parts": [
+      "外",
+      "国",
+      "外国"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-kou",
+    "kanji": "校",
+    "reading": "こう",
+    "romaji": "kou",
+    "meaning_th": "โรงเรียน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "school"
+    ],
+    "example_jp": "学校",
+    "example_th": "โรงเรียน",
+    "word_parts": [
+      "学",
+      "校",
+      "学校"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ku",
+    "kanji": "九",
+    "reading": "く",
+    "romaji": "ku",
+    "meaning_th": "เก้า",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "九月",
+    "example_th": "เดือนกันยายน",
+    "word_parts": [
+      "九",
+      "月",
+      "九月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-kuruma",
+    "kanji": "車",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "meaning_th": "รถยนต์",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "travel-places",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "vehicle"
+    ],
+    "example_jp": "車",
+    "example_th": "รถยนต์",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-man",
+    "kanji": "万",
+    "reading": "まん",
+    "romaji": "man",
+    "meaning_th": "หมื่น",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "一万",
+    "example_th": "หนึ่งหมื่น",
+    "word_parts": [
+      "一",
+      "万",
+      "一万"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-me",
+    "kanji": "目",
+    "reading": "め",
+    "romaji": "me",
+    "meaning_th": "ตา",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "body",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "目",
+    "example_th": "ตา",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-mi",
+    "kanji": "見",
+    "reading": "み",
+    "romaji": "mi",
+    "meaning_th": "ดู, มอง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "verbs-actions",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "verb"
+    ],
+    "example_jp": "見る",
+    "example_th": "ดู, มอง",
+    "word_parts": [
+      "見",
+      "る",
+      "見る"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-migi",
+    "kanji": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "meaning_th": "ขวา",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "position"
+    ],
+    "example_jp": "右側",
+    "example_th": "ด้านขวา",
+    "word_parts": [
+      "右",
+      "側",
+      "右側"
+    ],
+    "builder_pattern": "direction + 側",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-mimi",
+    "kanji": "耳",
+    "reading": "みみ",
+    "romaji": "mimi",
+    "meaning_th": "หู",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "body",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "耳",
+    "example_th": "หู",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-mizu",
+    "kanji": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "meaning_th": "น้ำ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "お水",
+    "example_th": "น้ำดื่ม",
+    "word_parts": [
+      "お",
+      "水",
+      "お水"
+    ],
+    "builder_pattern": "お + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-moku",
+    "kanji": "木",
+    "reading": "もく",
+    "romaji": "moku",
+    "meaning_th": "ต้นไม้, ไม้",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "木曜日",
+    "example_th": "วันพฤหัสบดี",
+    "word_parts": [
+      "木",
+      "曜日",
+      "木曜日"
+    ],
+    "builder_pattern": "kanji + 曜日",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-naka",
+    "kanji": "中",
+    "reading": "なか",
+    "romaji": "naka",
+    "meaning_th": "กลาง, ข้างใน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "position"
+    ],
+    "example_jp": "鞄の中",
+    "example_th": "ในกระเป๋า",
+    "word_parts": [
+      "鞄",
+      "の",
+      "中",
+      "鞄の中"
+    ],
+    "builder_pattern": "noun + の + position",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-nan",
+    "kanji": "何",
+    "reading": "なん",
+    "romaji": "nan",
+    "meaning_th": "อะไร",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "question"
+    ],
+    "example_jp": "何時",
+    "example_th": "กี่โมง",
+    "word_parts": [
+      "何",
+      "時",
+      "何時"
+    ],
+    "builder_pattern": "何 + counter",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-nen",
+    "kanji": "年",
+    "reading": "ねん",
+    "romaji": "nen",
+    "meaning_th": "ปี",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "time-date",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "time"
+    ],
+    "example_jp": "来年",
+    "example_th": "ปีหน้า",
+    "word_parts": [
+      "来",
+      "年",
+      "来年"
+    ],
+    "builder_pattern": "kanji + 年",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ni",
+    "kanji": "二",
+    "reading": "に",
+    "romaji": "ni",
+    "meaning_th": "สอง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "二月",
+    "example_th": "เดือนกุมภาพันธ์",
+    "word_parts": [
+      "二",
+      "月",
+      "二月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-nichi",
+    "kanji": "日",
+    "reading": "にち",
+    "romaji": "nichi",
+    "meaning_th": "วัน, ดวงอาทิตย์",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "time-date",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "time"
+    ],
+    "example_jp": "日本",
+    "example_th": "ประเทศญี่ปุ่น",
+    "word_parts": [
+      "日",
+      "本",
+      "日本"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-no",
+    "kanji": "飲",
+    "reading": "の",
+    "romaji": "no",
+    "meaning_th": "ดื่ม",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "verbs-actions",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "verb"
+    ],
+    "example_jp": "飲む",
+    "example_th": "ดื่ม",
+    "word_parts": [
+      "飲",
+      "む",
+      "飲む"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-onna",
+    "kanji": "女",
+    "reading": "おんな",
+    "romaji": "onna",
+    "meaning_th": "ผู้หญิง",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "family-people",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "people"
+    ],
+    "example_jp": "女の子",
+    "example_th": "เด็กผู้หญิง",
+    "word_parts": [
+      "女",
+      "の",
+      "子",
+      "女の子"
+    ],
+    "builder_pattern": "noun + の + noun",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-oo",
+    "kanji": "大",
+    "reading": "おお",
+    "romaji": "oo",
+    "meaning_th": "ใหญ่",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "adjectives",
+      "basic-kanji"
+    ],
+    "tags": [
+      "adjective",
+      "basic",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "大きい",
+    "example_th": "ใหญ่",
+    "word_parts": [
+      "大",
+      "きい",
+      "大きい"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-otoko",
+    "kanji": "男",
+    "reading": "おとこ",
+    "romaji": "otoko",
+    "meaning_th": "ผู้ชาย",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "family-people",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "people"
+    ],
+    "example_jp": "男の子",
+    "example_th": "เด็กผู้ชาย",
+    "word_parts": [
+      "男",
+      "の",
+      "子",
+      "男の子"
+    ],
+    "builder_pattern": "noun + の + noun",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-roku",
+    "kanji": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "meaning_th": "หก",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "六月",
+    "example_th": "เดือนมิถุนายน",
+    "word_parts": [
+      "六",
+      "月",
+      "六月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-san",
+    "kanji": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "meaning_th": "สาม",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "三人",
+    "example_th": "สามคน",
+    "word_parts": [
+      "三",
+      "人",
+      "三人"
+    ],
+    "builder_pattern": "number + counter",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-sei",
+    "kanji": "生",
+    "reading": "せい",
+    "romaji": "sei",
+    "meaning_th": "ชีวิต, เกิด",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "school"
+    ],
+    "example_jp": "先生",
+    "example_th": "คุณครู, อาจารย์",
+    "word_parts": [
+      "先",
+      "生",
+      "先生"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-sen-67a35d",
+    "kanji": "千",
+    "reading": "せん",
+    "romaji": "sen",
+    "meaning_th": "พัน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "三千",
+    "example_th": "สามพัน",
+    "word_parts": [
+      "三",
+      "千",
+      "三千"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-sen-e1b9c0",
+    "kanji": "先",
+    "reading": "せん",
+    "romaji": "sen",
+    "meaning_th": "ก่อน, อนาคต",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "school-classroom",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "school"
+    ],
+    "example_jp": "先生",
+    "example_th": "คุณครู",
+    "word_parts": [
+      "先",
+      "生",
+      "先生"
+    ],
+    "builder_pattern": "kanji + kanji compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-shichi",
+    "kanji": "七",
+    "reading": "しち",
+    "romaji": "shichi",
+    "meaning_th": "เจ็ด",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "七月",
+    "example_th": "เดือนกรกฎาคม",
+    "word_parts": [
+      "七",
+      "月",
+      "七月"
+    ],
+    "builder_pattern": "number + kanji",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-shita",
+    "kanji": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "meaning_th": "ล่าง, ข้างใต้",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "position"
+    ],
+    "example_jp": "木の下",
+    "example_th": "ใต้ต้นไม้",
+    "word_parts": [
+      "木",
+      "の",
+      "下",
+      "木の下"
+    ],
+    "builder_pattern": "noun + の + position",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ta",
+    "kanji": "食",
+    "reading": "た",
+    "romaji": "ta",
+    "meaning_th": "กิน, อาหาร",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "verbs-actions",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "verb"
+    ],
+    "example_jp": "食べる",
+    "example_th": "กิน",
+    "word_parts": [
+      "食",
+      "べる",
+      "食べる"
+    ],
+    "builder_pattern": "kanji + okurigana",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-te",
+    "kanji": "手",
+    "reading": "て",
+    "romaji": "te",
+    "meaning_th": "มือ",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "body",
+      "kanji",
+      "n5"
+    ],
+    "example_jp": "手紙",
+    "example_th": "จดหมาย",
+    "word_parts": [
+      "手",
+      "紙",
+      "手紙"
+    ],
+    "builder_pattern": "noun + noun compound",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-ue",
+    "kanji": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning_th": "บน, ข้างบน",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "position"
+    ],
+    "example_jp": "机の上",
+    "example_th": "บนโต๊ะ",
+    "word_parts": [
+      "机",
+      "の",
+      "上",
+      "机の上"
+    ],
+    "builder_pattern": "noun + の + position",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-yama",
+    "kanji": "山",
+    "reading": "やま",
+    "romaji": "yama",
+    "meaning_th": "ภูเขา",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "nature"
+    ],
+    "example_jp": "あの山",
+    "example_th": "ภูเขาลูกนั้น",
+    "word_parts": [],
+    "builder_pattern": "",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  },
+  {
+    "id": "kanji-yon",
+    "kanji": "四",
+    "reading": "よん",
+    "romaji": "yon",
+    "meaning_th": "สี่",
+    "level": "N5",
+    "primary_category": "basic-kanji",
+    "categories": [
+      "numbers-counters",
+      "basic-kanji"
+    ],
+    "tags": [
+      "basic",
+      "kanji",
+      "n5",
+      "number"
+    ],
+    "example_jp": "四人",
+    "example_th": "สี่คน",
+    "word_parts": [
+      "四",
+      "人",
+      "四人"
+    ],
+    "builder_pattern": "number + counter",
+    "source_files": [
+      "chunk-08-basic-kanji.json"
+    ],
+    "status": "clean"
+  }
+]

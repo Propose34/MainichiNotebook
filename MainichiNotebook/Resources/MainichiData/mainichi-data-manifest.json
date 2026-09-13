@@ -1,0 +1,18 @@
+{
+  "dataset_name": "Mainichi Notebook Seed Data",
+  "version": "v2",
+  "language": "ja-TH",
+  "files": {
+    "vocabulary": "mainichi-items.clean.json",
+    "kanji": "mainichi-kanji.clean.json",
+    "grammar_patterns": "mainichi-grammar-patterns.clean.json",
+    "flashcard_prompts": "mainichi-flashcard-prompts.clean.json",
+    "decks": "mainichi-decks.clean.json",
+    "categories": "mainichi-categories.clean.json"
+  },
+  "schema_notes": [
+    "Decks and categories use vocabulary_item_ids, kanji_ids, and grammar_pattern_ids instead of ambiguous item_ids.",
+    "Flashcards use target_type and target_id instead of ambiguous item_id.",
+    "all-vocabulary is virtual and should not be added to each item's categories."
+  ]
+}

@@ -1,0 +1,1650 @@
+[
+  {
+    "merged_into_id": "asagohan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 43,
+        "japanese": "朝ご飯",
+        "reading": "あさごはん",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 73,
+        "japanese": "朝ご飯",
+        "reading": "あさごはん",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "atsui-47e991",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 9,
+        "japanese": "熱い",
+        "reading": "あつい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 86,
+        "japanese": "熱い",
+        "reading": "あつい",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "bangohan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 45,
+        "japanese": "晩ご飯",
+        "reading": "ばんごはん",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 75,
+        "japanese": "晩ご飯",
+        "reading": "ばんごはん",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "benkyou-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 16,
+        "japanese": "勉強する",
+        "reading": "べんきょうする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 57,
+        "japanese": "勉強する",
+        "reading": "べんきょうする",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 14,
+        "japanese": "勉強する",
+        "reading": "べんきょうする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "butaniku",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 97,
+        "japanese": "豚肉",
+        "reading": "ぶたにく",
+        "deck": "Food & Kitchen"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 48,
+        "japanese": "豚肉",
+        "reading": "ぶたにく",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "chiisai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 3,
+        "japanese": "小さい",
+        "reading": "ちいさい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 85,
+        "japanese": "小さい",
+        "reading": "ちいさい",
+        "deck": "Daily Conversations"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "densha",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 61,
+        "japanese": "電車",
+        "reading": "でんしゃ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 94,
+        "japanese": "電車",
+        "reading": "でんしゃ",
+        "deck": "Travel Phrases"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "eigakan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 72,
+        "japanese": "映画館",
+        "reading": "えいがかん",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 50,
+        "japanese": "映画館",
+        "reading": "えいがかん",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "eigo",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 1,
+        "japanese": "英語",
+        "reading": "えいご",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 38,
+        "japanese": "英語",
+        "reading": "えいご",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "futatsu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 67,
+        "japanese": "二つ",
+        "reading": "ふたつ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 16,
+        "japanese": "二つ",
+        "reading": "ふたつ",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "gakkou",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 54,
+        "japanese": "学校",
+        "reading": "がっこう",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 140,
+        "japanese": "学校",
+        "reading": "がっこう",
+        "deck": "Basic Nouns"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "gakusei",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 0,
+        "japanese": "学生",
+        "reading": "がくせい",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 53,
+        "japanese": "学生",
+        "reading": "がくせい",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "gyuuniku",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 96,
+        "japanese": "牛肉",
+        "reading": "ぎゅうにく",
+        "deck": "Food & Kitchen"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 47,
+        "japanese": "牛肉",
+        "reading": "ぎゅうにく",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "hanasu",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 68,
+        "japanese": "話す",
+        "reading": "はなす",
+        "deck": "Daily Conversations"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 4,
+        "japanese": "話す",
+        "reading": "はなす",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "hikouki",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 62,
+        "japanese": "飛行機",
+        "reading": "ひこうき",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 96,
+        "japanese": "飛行機",
+        "reading": "ひこうき",
+        "deck": "Travel Phrases"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "hirugohan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 44,
+        "japanese": "昼ご飯",
+        "reading": "ひるごはん",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 74,
+        "japanese": "昼ご飯",
+        "reading": "ひるごはん",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "hitotsu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 66,
+        "japanese": "一つ",
+        "reading": "ひとつ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 15,
+        "japanese": "一つ",
+        "reading": "ひとつ",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "iku",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 60,
+        "japanese": "行く",
+        "reading": "いく",
+        "deck": "Travel Phrases"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 7,
+        "japanese": "行く",
+        "reading": "いく",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "imi",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 11,
+        "japanese": "意味",
+        "reading": "いみ",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 37,
+        "japanese": "意味",
+        "reading": "いみ",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "jisho",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 13,
+        "japanese": "辞書",
+        "reading": "じしょ",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 91,
+        "japanese": "辞書",
+        "reading": "じしょ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 48,
+        "japanese": "辞書",
+        "reading": "じしょ",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "jitensha",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 60,
+        "japanese": "自転車",
+        "reading": "じてんしゃ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 139,
+        "japanese": "自転車",
+        "reading": "じてんしゃ",
+        "deck": "Basic Nouns"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "jugyou",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 2,
+        "japanese": "授業",
+        "reading": "じゅぎょう",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 55,
+        "japanese": "授業",
+        "reading": "じゅぎょう",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "kaeru-ed2260",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 62,
+        "japanese": "帰る",
+        "reading": "かえる",
+        "deck": "Travel Phrases"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 119,
+        "japanese": "帰る",
+        "reading": "かえる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kaimono",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 124,
+        "japanese": "買い物",
+        "reading": "かいもの",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 29,
+        "japanese": "買い物",
+        "reading": "かいもの",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "kaku",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 65,
+        "japanese": "書く",
+        "reading": "かく",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 6,
+        "japanese": "書く",
+        "reading": "かく",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kau",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 63,
+        "japanese": "買う",
+        "reading": "かう",
+        "deck": "Travel Phrases"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 9,
+        "japanese": "買う",
+        "reading": "かう",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kiku",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 67,
+        "japanese": "聞く",
+        "reading": "きく",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 3,
+        "japanese": "聞く",
+        "reading": "きく",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "konshuu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 13,
+        "japanese": "今週",
+        "reading": "こんしゅう",
+        "deck": "N5 Vocabulary"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 73,
+        "japanese": "今週",
+        "reading": "こんしゅう",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kuru",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 61,
+        "japanese": "来る",
+        "reading": "くる",
+        "deck": "Travel Phrases"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 8,
+        "japanese": "来る",
+        "reading": "くる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kutsushita",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 57,
+        "japanese": "靴下",
+        "reading": "くつした",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 90,
+        "japanese": "靴下",
+        "reading": "くつした",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "kyoushitsu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 92,
+        "japanese": "教室",
+        "reading": "きょうしつ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 56,
+        "japanese": "教室",
+        "reading": "きょうしつ",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "mainichi",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 25,
+        "japanese": "毎日",
+        "reading": "まいにち",
+        "deck": "N5 Vocabulary"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 69,
+        "japanese": "毎日",
+        "reading": "まいにち",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "matsu",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 69,
+        "japanese": "待つ",
+        "reading": "まつ",
+        "deck": "Daily Conversations"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 11,
+        "japanese": "待つ",
+        "reading": "まつ",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "miru",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 64,
+        "japanese": "見る",
+        "reading": "みる",
+        "deck": "Daily Conversations"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 2,
+        "japanese": "見る",
+        "reading": "みる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "mondai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 6,
+        "japanese": "問題",
+        "reading": "もんだい",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 94,
+        "japanese": "問題",
+        "reading": "もんだい",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "mou-ichido-itte-kudasai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 25,
+        "japanese": "もう一度言ってください",
+        "reading": "もういちどいってください",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 36,
+        "japanese": "もう一度言ってください",
+        "reading": "もういちどいってください",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "muzukashii",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 16,
+        "japanese": "難しい",
+        "reading": "むずかしい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 45,
+        "japanese": "難しい",
+        "reading": "むずかしい",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "nihongo",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 0,
+        "japanese": "日本語",
+        "reading": "にほんご",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 39,
+        "japanese": "日本語",
+        "reading": "にほんご",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "nomimono",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 28,
+        "japanese": "飲み物",
+        "reading": "のみもの",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 26,
+        "japanese": "飲み物",
+        "reading": "のみもの",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "nomu",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 59,
+        "japanese": "飲む",
+        "reading": "のむ",
+        "deck": "Restaurant & Cafe"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 1,
+        "japanese": "飲む",
+        "reading": "のむ",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "oboeru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 18,
+        "japanese": "覚える",
+        "reading": "おぼえる",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 57,
+        "japanese": "覚える",
+        "reading": "おぼえる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "ocha",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 33,
+        "japanese": "お茶",
+        "reading": "おちゃ",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 71,
+        "japanese": "お茶",
+        "reading": "おちゃ",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "ofuro",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 40,
+        "japanese": "お風呂",
+        "reading": "おふろ",
+        "deck": "Home Objects"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 38,
+        "japanese": "お風呂",
+        "reading": "おふろ",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "oishii",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 0,
+        "japanese": "おいしい",
+        "reading": "おいしい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 81,
+        "japanese": "美味しい",
+        "reading": "おいしい",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Same reading, romaji, and Thai meaning; merged kana/kanji spelling variants"
+  },
+  {
+    "merged_into_id": "okaasan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 1,
+        "japanese": "お母さん",
+        "reading": "おかあさん",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 41,
+        "japanese": "お母さん",
+        "reading": "おかあさん",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "okaikei",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 39,
+        "japanese": "お会計",
+        "reading": "おかいけい",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 18,
+        "japanese": "お会計",
+        "reading": "おかいけい",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "okane",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 32,
+        "japanese": "お金",
+        "reading": "おかね",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 98,
+        "japanese": "お金",
+        "reading": "おかね",
+        "deck": "Daily Conversations"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 124,
+        "japanese": "お金",
+        "reading": "おかね",
+        "deck": "Basic Nouns"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "okashi",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 100,
+        "japanese": "お菓子",
+        "reading": "おかし",
+        "deck": "Food & Kitchen"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 37,
+        "japanese": "お菓子",
+        "reading": "おかし",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "ookii",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 2,
+        "japanese": "大きい",
+        "reading": "おおきい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 84,
+        "japanese": "大きい",
+        "reading": "おおきい",
+        "deck": "Daily Conversations"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "oshieru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 20,
+        "japanese": "教える",
+        "reading": "おしえる",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 77,
+        "japanese": "教える",
+        "reading": "おしえる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "otousan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 0,
+        "japanese": "お父さん",
+        "reading": "おとうさん",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 42,
+        "japanese": "お父さん",
+        "reading": "おとうさん",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "peeji",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 15,
+        "japanese": "ページ",
+        "reading": "ぺーじ",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 41,
+        "japanese": "ページ",
+        "reading": "ぺーじ",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "raishuu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 14,
+        "japanese": "来週",
+        "reading": "らいしゅう",
+        "deck": "N5 Vocabulary"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 74,
+        "japanese": "来週",
+        "reading": "らいしゅう",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "renshuu-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 19,
+        "japanese": "練習する",
+        "reading": "れんしゅうする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 74,
+        "japanese": "練習する",
+        "reading": "れんしゅうする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "ryokou-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 21,
+        "japanese": "旅行する",
+        "reading": "りょこうする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 73,
+        "japanese": "旅行する",
+        "reading": "りょこうする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "ryouri-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 18,
+        "japanese": "料理する",
+        "reading": "りょうりする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 47,
+        "japanese": "料理する",
+        "reading": "りょうりする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "ryuugakusei",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 1,
+        "japanese": "留学生",
+        "reading": "りゅうがくせい",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 13,
+        "japanese": "留学生",
+        "reading": "りゅうがくせい",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "senshuu",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 15,
+        "japanese": "先週",
+        "reading": "せんしゅう",
+        "deck": "N5 Vocabulary"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 75,
+        "japanese": "先週",
+        "reading": "せんしゅう",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "setsumei-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 22,
+        "japanese": "説明する",
+        "reading": "せつめいする",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 82,
+        "japanese": "説明する",
+        "reading": "せつめいする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "shinpai-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 22,
+        "japanese": "心配する",
+        "reading": "しんぱいする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 56,
+        "japanese": "心配する",
+        "reading": "しんぱいする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "shitsumon",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 5,
+        "japanese": "質問",
+        "reading": "しつもん",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 35,
+        "japanese": "質問",
+        "reading": "しつもん",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "shukudai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 4,
+        "japanese": "宿題",
+        "reading": "しゅくだい",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 93,
+        "japanese": "宿題",
+        "reading": "しゅくだい",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 40,
+        "japanese": "宿題",
+        "reading": "しゅくだい",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "souji-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 17,
+        "japanese": "掃除する",
+        "reading": "そうじする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 46,
+        "japanese": "掃除する",
+        "reading": "そうじする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "tabemono",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 27,
+        "japanese": "食べ物",
+        "reading": "たべもの",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 27,
+        "japanese": "食べ物",
+        "reading": "たべもの",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "taberu",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 58,
+        "japanese": "食べる",
+        "reading": "たべる",
+        "deck": "Restaurant & Cafe"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 0,
+        "japanese": "食べる",
+        "reading": "たべる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "takai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 6,
+        "japanese": "高い",
+        "reading": "たかい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 82,
+        "japanese": "高い",
+        "reading": "たかい",
+        "deck": "Daily Conversations"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "tegami",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 64,
+        "japanese": "手紙",
+        "reading": "てがみ",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 88,
+        "japanese": "手紙",
+        "reading": "てがみ",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "tesuto",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 9,
+        "japanese": "テスト",
+        "reading": "てすと",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 42,
+        "japanese": "テスト",
+        "reading": "てすと",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "tokei",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 89,
+        "japanese": "時計",
+        "reading": "とけい",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 121,
+        "japanese": "時計",
+        "reading": "とけい",
+        "deck": "Basic Nouns"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "toriniku",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 98,
+        "japanese": "鶏肉",
+        "reading": "とりにく",
+        "deck": "Food & Kitchen"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 49,
+        "japanese": "鶏肉",
+        "reading": "とりにく",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "toshokan",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 51,
+        "japanese": "図書館",
+        "reading": "としょかん",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 149,
+        "japanese": "図書館",
+        "reading": "としょかん",
+        "deck": "Basic Nouns"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "tsumetai",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 11,
+        "japanese": "冷たい",
+        "reading": "つめたい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 87,
+        "japanese": "冷たい",
+        "reading": "つめたい",
+        "deck": "Restaurant & Cafe"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "undou-suru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 20,
+        "japanese": "運動する",
+        "reading": "うんどうする",
+        "deck": "Word Builder"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 75,
+        "japanese": "運動する",
+        "reading": "うんどうする",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "wakarimasen",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 27,
+        "japanese": "わかりません",
+        "reading": "わかりません",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 4,
+        "japanese": "わかりません",
+        "reading": "わかりません",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "wakarimashita",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 28,
+        "japanese": "わかりました",
+        "reading": "わかりました",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 5,
+        "japanese": "わかりました",
+        "reading": "わかりました",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "wasuremashita",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 40,
+        "japanese": "忘れました",
+        "reading": "わすれました",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 43,
+        "japanese": "忘れました",
+        "reading": "わすれました",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match; compatible detail or part-of-speech variants normalized"
+  },
+  {
+    "merged_into_id": "wasureru",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-04-classroom-survival.json",
+        "source_index": 19,
+        "japanese": "忘れる",
+        "reading": "わすれる",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 58,
+        "japanese": "忘れる",
+        "reading": "わすれる",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "yasashii",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 17,
+        "japanese": "優しい",
+        "reading": "やさしい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 46,
+        "japanese": "優しい",
+        "reading": "やさしい",
+        "deck": "Classroom Japanese"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "yasui",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-05-n5-adjectives.json",
+        "source_index": 7,
+        "japanese": "安い",
+        "reading": "やすい",
+        "deck": "N5 Adjectives"
+      },
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 83,
+        "japanese": "安い",
+        "reading": "やすい",
+        "deck": "Daily Conversations"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "yomu",
+    "duplicate_sources": [
+      {
+        "source_file": "conversation-vocab.json",
+        "source_index": 66,
+        "japanese": "読む",
+        "reading": "よむ",
+        "deck": "Classroom Japanese"
+      },
+      {
+        "source_file": "essential-vocab.json",
+        "source_index": 5,
+        "japanese": "読む",
+        "reading": "よむ",
+        "deck": "Essential Verbs"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  },
+  {
+    "merged_into_id": "yuubinkyoku",
+    "duplicate_sources": [
+      {
+        "source_file": "chunk-03-essential-nouns-daily-life.json",
+        "source_index": 68,
+        "japanese": "郵便局",
+        "reading": "ゆうびんきょく",
+        "deck": "Daily Life"
+      },
+      {
+        "source_file": "chunk-07-word-builder-candidates.json",
+        "source_index": 54,
+        "japanese": "郵便局",
+        "reading": "ゆうびんきょく",
+        "deck": "Word Builder"
+      }
+    ],
+    "merge_reason": "Exact japanese and reading match with compatible meaning"
+  }
+]

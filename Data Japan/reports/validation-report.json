@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [
+    "2 vocabulary items still have unresolved JLPT level conflicts."
+  ],
+  "checks": {
+    "unique_vocabulary_ids": true,
+    "unique_kanji_ids": true,
+    "unique_grammar_pattern_ids": true,
+    "unique_flashcard_prompt_ids": true,
+    "all_deck_references_resolve": true,
+    "all_category_references_resolve": true,
+    "all_flashcard_targets_resolve": true,
+    "all_flashcard_answers_in_choices": true,
+    "all_vocabulary_categories_valid": true,
+    "all_category_total_counts_correct": true,
+    "no_daily_life_global_assignment": true,
+    "no_ambiguous_item_ids_fields": true,
+    "canonical_output_filenames": true,
+    "rejected_items_report_exists": true,
+    "needs_human_review_report_exists": true
+  }
+}
